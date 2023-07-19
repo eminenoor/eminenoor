@@ -1,5 +1,5 @@
 ### Hi there 👋
-💻 First Year Computer Engineering Student at Bilkent University 
+💻 Computer Engineering Student at Bilkent University 
 <!--
 **eminenoor/eminenoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
